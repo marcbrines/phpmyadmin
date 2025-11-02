@@ -1,0 +1,7 @@
+site_name: My Docs
+theme:
+  name: material
+nav:
+  - Inici: index.md
+  - Documentació: U2_P4_Brines_Marc(1)/U2_P4_Brines_Marc.md
+  - Scripts: scripts_phpmyadmin.md
